@@ -1,0 +1,2 @@
+# trig
+Quick trigonometry algorithms.
